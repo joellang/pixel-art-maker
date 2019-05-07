@@ -1,4 +1,4 @@
-const colorList = ['red', 'orange', 'yellow', 'green', 'blue', 'purple', 'brown', 'gray', 'black', 'white']
+const colorList = ['red', 'orange', 'yellow', 'lightGreen', 'green', 'lightBlue', 'blue', 'purple', 'brown', 'gray', 'black', 'white']
 const mainDiv = document.querySelector('.main')
 const mainpallet = document.querySelector('.pallet')
 
